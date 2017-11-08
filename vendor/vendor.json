@@ -1,0 +1,12 @@
+{
+    "rootPath": "github.com/carlmjohnson/echo-request",
+    "comment": "",
+    "ignore": "test",
+    "package": [],
+    "heroku": {
+        "install" : [
+            "./..."
+        ],
+        "goVersion": "go1.9"
+    }
+}
